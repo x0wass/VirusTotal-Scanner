@@ -1,0 +1,100 @@
+Bkav
+MicroWorld-eScan
+FireEye
+Cat-QuickHeal
+ALYac
+Cylance
+VIPRE
+AegisLab
+Sangfor
+K7AntiVirus
+K7GW
+Arcabit
+Baidu
+Cyren
+Symantec
+ESET-NOD32
+TrendMicro-HouseCall
+Avast
+ClamAV
+Kaspersky
+BitDefender
+NANO-Antivirus
+ViRobot
+Rising
+Ad-Aware
+TACHYON
+Sophos
+Comodo
+F-Secure
+DrWeb
+Zillya
+TrendMicro
+McAfee-GW-Edition
+CMC
+Emsisoft
+Ikarus
+Jiangmin
+Avira
+Antyl-AVL
+Kingsoft
+Gridinsoft
+Microsoft
+SUPERAntiSpyware
+ZoneAlarm
+GData
+Cynet
+AhnLab-V3
+Acronis
+McAfee
+MAX
+VBA32
+Malwarebytes
+Zoner
+Tencent
+Yandex
+SentinelOne
+MaxSecure
+Fortinet
+BitDefenderTheta
+Panda
+Qihoo-360
+Ad-Aware
+CMC
+Cynet
+DrWeb
+eScan
+Rising
+Tencent
+TrendMicro-HouseCall
+VIPRE
+Yandex
+ZoneAlarm by Check Point
+SecureAge APEX
+BitDefenderFalx
+Cybereason
+eGambit
+Palo Alto Networks
+Symantec Mobile Insight
+Trustlook
+Webroot
+Trapmine
+SentinelOne (Static ML)
+Elastic
+Cylance
+CrowdStrike Falcon
+Avas-Mobile
+Alibaba
+Zoner
+Zillya
+ViRobot
+VBA32
+Sangfor Engine Zero
+Qihoo-360
+NANO-Antivirus
+McAfee-GW-Edition
+MaxSecure
+Bkav Pro
+Avira (no cloud)
+Arcabit
+AegisLab

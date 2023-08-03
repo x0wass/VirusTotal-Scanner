@@ -1,0 +1,107 @@
+URL: https://www.virustotal.com/vtapi/v2/url/report
+Scan date: 2020-08-19 05:21:47
+Scan positif: 0
+Total: 78
+
+ADMINUSLabs:
+ Menace detected: NO | Result: clean site
+AlienVault:
+ Menace detected: NO | Result: clean site
+BitDefender:
+ Menace detected: NO | Result: clean site
+CLEAN MX:
+ Menace detected: NO | Result: clean site
+CyberCrime:
+ Menace detected: NO | Result: clean site
+desenmascara.me:
+ Menace detected: NO | Result: clean site
+Dr.Web:
+ Menace detected: NO | Result: clean site
+ESET:
+ Menace detected: NO | Result: clean site
+Fortinet:
+ Menace detected: NO | Result: clean site
+Google Safebrowsing:
+ Menace detected: NO | Result: clean site
+Kaspersky:
+ Menace detected: NO | Result: clean site
+MalwareDomainList:
+ Menace detected: NO | Result: clean site
+malwares.com URL checker:
+ Menace detected: NO | Result: clean site
+OpenPhish:
+ Menace detected: NO | Result: clean site
+Phishtank:
+ Menace detected: NO | Result: clean site
+Rising:
+ Menace detected: NO | Result: clean site
+SecureBrain:
+ Menace detected: NO | Result: clean site
+Spam404:
+ Menace detected: NO | Result: clean site
+Tencent:
+ Menace detected: NO | Result: clean site
+Trustwave:
+ Menace detected: NO | Result: clean site
+VX Vault:
+ Menace detected: NO | Result: clean site
+Yandex Safebrowsing:
+ Menace detected: NO | Result: clean site
+zvelo:
+ Menace detected: NO | Result: clean site
+Netcraft:
+ Menace detected: NO | Result: unrated site
+PhishLabs:
+ Menace detected: NO | Result: unrated site
+StopBadware:
+ Menace detected: NO | Result: unrated site
+AegisLab WebGuard:
+ Menace detected: NO | Result: clean site
+Antiy-AVL:
+ Menace detected: NO | Result: clean site
+Blueliv:
+ Menace detected: NO | Result: clean site
+CyRadar:
+ Menace detected: NO | Result: clean site
+DNS8:
+ Menace detected: NO | Result: clean site
+Emsisoft:
+ Menace detected: NO | Result: clean site
+Forcepoint ThreatSeeker:
+ Menace detected: NO | Result: clean site
+FraudScore:
+ Menace detected: NO | Result: clean site
+G-Data:
+ Menace detected: NO | Result: clean site
+K7AntiVirus:
+ Menace detected: NO | Result: clean site
+Malware Domain Blocklist:
+ Menace detected: NO | Result: clean site
+Malwared:
+ Menace detected: NO | Result: clean site
+MalwarePatrol:
+ Menace detected: NO | Result: clean site
+Nucleon:
+ Menace detected: NO | Result: clean site
+Quttera:
+ Menace detected: NO | Result: clean site
+SCUMWARE.org:
+ Menace detected: NO | Result: clean site
+securolytics:
+ Menace detected: NO | Result: clean site
+Sucuri SiteCheck:
+ Menace detected: NO | Result: clean site
+ThreatHive:
+ Menace detected: NO | Result: clean site
+Virusdie External Site Scan:
+ Menace detected: NO | Result: clean site
+Web Security Guard:
+ Menace detected: NO | Result: clean site
+ZeroCERT:
+ Menace detected: NO | Result: clean site
+AutoShun:
+ Menace detected: NO | Result: unrated site
+NotMining:
+ Menace detected: NO | Result: unrated site
+Sophos:
+ Menace detected: NO | Result: clean site

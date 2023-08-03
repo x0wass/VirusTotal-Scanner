@@ -1,0 +1,66 @@
+ADMINUSLabs
+AlienVault
+Avira (no cloud)
+BitDefender
+C-SIRT
+CLEAN MX
+CyberCrime
+desenmascara.me
+Dr.Web
+ESET
+Fortinet
+FraudSense
+Google Safebrowsing
+Kaspersky
+Malekal
+Malwarebytes hpHosts
+MalwareDomainList
+malwares.com URL checker
+OpenPhish
+Phishtank
+Rising
+SecureBrain
+Spam404
+Tencent
+Trustwave
+VX Vault
+Yandex Safebrowsing
+ZDB Zeus
+Zerofox
+zvelo
+Netcraft
+PhishLabs
+StopBadware
+AegisLab WebGuard
+Antiy-AVL
+Baidu-international
+Blueliv
+Certly
+Comodo Site Inspector
+CyRadar
+DNS8
+Emsisoft
+Forcepoint ThreatSeeker
+FraudScore
+G-Data
+K7AntiVirus
+Malc0de Database
+Malware Domain Blocklist
+Malwared
+MalwarePatrol
+Nucleon
+Opera
+Quttera
+SCUMWARE.org
+securolytics
+Sucuri SiteCheck
+ThreatHive
+Virusdie External Site Scan
+Web Security Guard
+ZCloudsec
+ZeroCERT
+ZeusTracker
+AutoShun
+NotMining
+Sophos
+URL Query

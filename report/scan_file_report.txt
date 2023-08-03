@@ -1,0 +1,174 @@
+Fichier hashage:
+SHA256 2b35aa9c70ef66197abfb9bc409952897f9f70818633ab43da85b3825b256307
+SHA1: 949b69bf87515ad8945ce9a79f68f8b788c0ae39
+MD5: 73da2c02c6f8bfd4662dc84820dcd983
+Scan date: 2021-03-27 14:17:04
+Scan positif: 56
+Total: 69
+
+Bkav:
+ malware detected: YES | version: 1.3.0.9899 | malware details: W32.AIDetect.malware1
+MicroWorld-eScan:
+ malware detected: YES | version: 14.0.409.0 | malware details: Trojan.GenericKD.33504379
+FireEye:
+ malware detected: YES | version: 32.44.1.0 | malware details: Generic.mg.73da2c02c6f8bfd4
+ALYac:
+ malware detected: YES | version: 1.1.3.1 | malware details: Trojan.Agent.Wacatac
+Cylance:
+ malware detected: YES | version: 2.3.1.101 | malware details: Unsafe
+VIPRE:
+ malware detected: YES | version: 91392 | malware details: Trojan.Win32.Generic!BT
+AegisLab:
+ malware detected: YES | version: 4.2 | malware details: Hacktool.Win32.Gamehack.3!e
+Sangfor:
+ malware detected: YES | version: 2.9.0.0 | malware details: Trojan.Win32.Save.a
+K7AntiVirus:
+ malware detected: YES | version: 11.173.36772 | malware details: Riskware ( 0040eff71 )
+K7GW:
+ malware detected: YES | version: 11.173.36772 | malware details: Riskware ( 0040eff71 )
+Arcabit:
+ malware detected: YES | version: 1.0.0.881 | malware details: Trojan.Generic.D1FF3C7B
+Baidu:
+ malware detected: NO | version: 1.0.0.2 | malware details: NONE
+Cyren:
+ malware detected: YES | version: 6.3.0.2 | malware details: W32/AutoIt.RN.gen!Eldorado
+ESET-NOD32:
+ malware detected: YES | version: 23034 | malware details: Win32/PSW.Delf.OSF
+TrendMicro-HouseCall:
+ malware detected: YES | version: 10.0.0.1040 | malware details: TrojanSpy.Win32.AZORULT.UJL
+Avast:
+ malware detected: YES | version: 21.1.5827.0 | malware details: Win32:Trojan-gen
+ClamAV:
+ malware detected: NO | version: 0.103.1.0 | malware details: NONE
+Kaspersky:
+ malware detected: YES | version: 21.0.1.45 | malware details: Trojan-PSW.Win32.Azorult.amiy
+BitDefender:
+ malware detected: YES | version: 7.2 | malware details: Trojan.GenericKD.33504379
+NANO-Antivirus:
+ malware detected: YES | version: 1.0.146.25265 | malware details: Trojan.Win32.Azorult.hdzmpu
+ViRobot:
+ malware detected: YES | version: 2014.3.20.0 | malware details: Dropper.S.Agent.3421696
+Rising:
+ malware detected: YES | version: 25.0.0.26 | malware details: Trojan.Occamy!8.F1CD (CLOUD)
+Ad-Aware:
+ malware detected: YES | version: 3.0.16.117 | malware details: Trojan.GenericKD.33504379
+TACHYON:
+ malware detected: YES | version: 2021-03-27.02 | malware details: Trojan-PWS/W32.InfoStealer.3421696
+Sophos:
+ malware detected: YES | version: 1.0.2.0 | malware details: Mal/Generic-R + Troj/MSIL-NZP
+Comodo:
+ malware detected: YES | version: 33381 | malware details: Malware@#1z88bc8nipk8n
+F-Secure:
+ malware detected: YES | version: 12.0.86.52 | malware details: Heuristic.HEUR/AGEN.1100233
+DrWeb:
+ malware detected: YES | version: 7.0.49.9080 | malware details: Trojan.Siggen9.16937
+Zillya:
+ malware detected: NO | version: 2.0.0.4325 | malware details: NONE
+TrendMicro:
+ malware detected: YES | version: 11.0.0.1006 | malware details: TrojanSpy.Win32.AZORULT.UJL
+McAfee-GW-Edition:
+ malware detected: YES | version: v2019.1.2+3728 | malware details: BehavesLike.Win32.TrojanAitInject.wc
+CMC:
+ malware detected: NO | version: 2.10.2019.1 | malware details: NONE
+Emsisoft:
+ malware detected: YES | version: 2018.12.0.1641 | malware details: Trojan.GenericKD.33504379 (B)
+Ikarus:
+ malware detected: YES | version: 0.1.5.2 | malware details: Trojan-Spy.Azorult
+Jiangmin:
+ malware detected: NO | version: 16.0.100 | malware details: NONE
+Avira:
+ malware detected: YES | version: 8.3.3.12 | malware details: HEUR/AGEN.1100233
+Kingsoft:
+ malware detected: NO | version: 2017.9.26.565 | malware details: NONE
+Gridinsoft:
+ malware detected: YES | version: 1.0.34.125 | malware details: Trojan.Win32.Stealer.sd!s4
+Microsoft:
+ malware detected: YES | version: 1.1.17900.7 | malware details: Trojan:Win32/Covitse!MSR
+SUPERAntiSpyware:
+ malware detected: NO | version: 5.6.0.1032 | malware details: NONE
+ZoneAlarm:
+ malware detected: YES | version: 1.0 | malware details: Trojan-PSW.Win32.Azorult.amiy
+GData:
+ malware detected: YES | version: A:25.29101B:27.22438 | malware details: Trojan.GenericKD.33504379
+Cynet:
+ malware detected: YES | version: 4.0.0.25 | malware details: Malicious (score: 100)
+AhnLab-V3:
+ malware detected: YES | version: 3.19.7.10132 | malware details: Malware/Win32.Generic.C4006664
+Acronis:
+ malware detected: NO | version: 1.1.1.81 | malware details: NONE
+McAfee:
+ malware detected: YES | version: 6.0.6.653 | malware details: Artemis!73DA2C02C6F8
+MAX:
+ malware detected: YES | version: 2019.9.16.1 | malware details: malware (ai score=100)
+VBA32:
+ malware detected: YES | version: 4.4.1 | malware details: Trojan.Wacatac
+Malwarebytes:
+ malware detected: YES | version: 4.2.1.18 | malware details: Trojan.AzorUlt.CoronaMap
+Zoner:
+ malware detected: NO | version: 0.0.0.0 | malware details: NONE
+Tencent:
+ malware detected: YES | version: 1.0.0.1 | malware details: Win32.Trojan-qqpass.Qqrob.Aisg
+Yandex:
+ malware detected: NO | version: 5.5.2.24 | malware details: NONE
+SentinelOne:
+ malware detected: NO | version: 5.0.0.20 | malware details: NONE
+MaxSecure:
+ malware detected: YES | version: 1.0.0.1 | malware details: Trojan.Malware.1728101.susgen
+Fortinet:
+ malware detected: YES | version: 6.2.142.0 | malware details: W32/Dropper_AutoIt.J!tr
+BitDefenderTheta:
+ malware detected: NO | version: 7.2.37796.0 | malware details: NONE
+Panda:
+ malware detected: YES | version: 4.6.4.2 | malware details: Trj/CI.A
+Qihoo-360:
+ malware detected: YES | version: 1.0.0.1120 | malware details: Win32/TrojanSpy.Azorult.HwoCts4A
+Ad-Aware:
+ malware detected: YES | version: 3.0.16.117 | malware details: Trojan.GenericKD.33504379
+CMC:
+ malware detected: NO | version: 2.10.2019.1 | malware details: NONE
+Cynet:
+ malware detected: YES | version: 4.0.0.25 | malware details: Malicious (score: 100)
+DrWeb:
+ malware detected: YES | version: 7.0.49.9080 | malware details: Trojan.Siggen9.16937
+Rising:
+ malware detected: YES | version: 25.0.0.26 | malware details: Trojan.Occamy!8.F1CD (CLOUD)
+Tencent:
+ malware detected: YES | version: 1.0.0.1 | malware details: Win32.Trojan-qqpass.Qqrob.Aisg
+TrendMicro-HouseCall:
+ malware detected: YES | version: 10.0.0.1040 | malware details: TrojanSpy.Win32.AZORULT.UJL
+VIPRE:
+ malware detected: YES | version: 91392 | malware details: Trojan.Win32.Generic!BT
+Yandex:
+ malware detected: NO | version: 5.5.2.24 | malware details: NONE
+Cybereason:
+ malware detected: YES | version: 1.2.449 | malware details: malicious.2c6f8b
+eGambit:
+ malware detected: YES | version: NONE | malware details: Unsafe.AI_Score_99%
+Webroot:
+ malware detected: YES | version: 1.0.0.403 | malware details: W32.Malware.Gen
+Elastic:
+ malware detected: YES | version: 4.0.17 | malware details: malicious (high confidence)
+Cylance:
+ malware detected: YES | version: 2.3.1.101 | malware details: Unsafe
+Alibaba:
+ malware detected: YES | version: 0.3.0.5 | malware details: TrojanPSW:Win32/Azorult.1371168f
+Zoner:
+ malware detected: NO | version: 0.0.0.0 | malware details: NONE
+Zillya:
+ malware detected: NO | version: 2.0.0.4325 | malware details: NONE
+ViRobot:
+ malware detected: YES | version: 2014.3.20.0 | malware details: Dropper.S.Agent.3421696
+VBA32:
+ malware detected: YES | version: 4.4.1 | malware details: Trojan.Wacatac
+Qihoo-360:
+ malware detected: YES | version: 1.0.0.1120 | malware details: Win32/TrojanSpy.Azorult.HwoCts4A
+NANO-Antivirus:
+ malware detected: YES | version: 1.0.146.25265 | malware details: Trojan.Win32.Azorult.hdzmpu
+McAfee-GW-Edition:
+ malware detected: YES | version: v2019.1.2+3728 | malware details: BehavesLike.Win32.TrojanAitInject.wc
+MaxSecure:
+ malware detected: YES | version: 1.0.0.1 | malware details: Trojan.Malware.1728101.susgen
+Arcabit:
+ malware detected: YES | version: 1.0.0.881 | malware details: Trojan.Generic.D1FF3C7B
+AegisLab:
+ malware detected: YES | version: 4.2 | malware details: Hacktool.Win32.Gamehack.3!e
